@@ -4,7 +4,7 @@
 # https://github.com/dockerfile/nodejs
 #
 
-# Pull base image.
+# Pull base image simran.
 FROM dockerfile/python
 
 # Install Node.js
