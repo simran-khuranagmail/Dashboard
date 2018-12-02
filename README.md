@@ -29,3 +29,4 @@ This repository contains **Dockerfile** of [Node.js](http://nodejs.org/) for [Do
 #### Run `npm`
 
     docker run -it --rm dockerfile/nodejs npm
+test
